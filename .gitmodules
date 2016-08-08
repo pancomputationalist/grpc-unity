@@ -1,0 +1,3 @@
+[submodule "HttpTwo-unity"]
+	path = HttpTwo-unity
+	url = https://github.com/Perlmint/HttpTwo-unity.git
